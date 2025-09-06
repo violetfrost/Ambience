@@ -1,3 +1,7 @@
+> ### 🚨 **2025 Update** 🚨  
+> ### This mod is no longer maintained or updated. It's being kept up for archival purposes, but most of the techniques used herein are likely quite a bit out of date by now. For a more modern look at the Telltale modding scene, check out the lovely folks over at the [Telltale Modding Group](https://github.com/Telltale-Modding-Group).
+> ### Having said that, it does probably still work. No harm in trying!
+
 # Ambience
 
 Ambience is a mod for The Walking Dead: The Telltale Definitive Series that allows you to free-roam the boarding school.
